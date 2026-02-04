@@ -15,5 +15,14 @@
 <!--- any unusual setup steps; having to run some extra task after deploy; -->
 <!--- potential issues with suggested changes, etc. -->
 
+## Related Pull Requests :link:
+<!--- Link to any related PRs in this or other repositories -->
+<!--- Examples: depends on, blocks, or is related to other work -->
+
+## Deployment Plan :rocket:
+<!--- Outline any special deployment considerations -->
+<!--- Include: migration steps, feature flags, rollout strategy, rollback plan -->
+<!--- Remove this section if standard deployment process applies -->
+
 ## Screenshots :camera:
 <!--- Are there any frontend changes? Some screenshots would be cool. Videos are welcome as well -->
